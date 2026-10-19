@@ -58,6 +58,8 @@ case "$event:$tool" in
     fi
     ;;
   SubagentStop:*)
+    # Interne Hilfsagenten von Claude Code (z. B. Eingabevorschläge) haben keinen agent_type
+    [ -z "$(field '.agent_type')" ] && exit 0
     text=$(field '.last_assistant_message')
     transcript=$(field '.agent_transcript_path')
     if [ -z "$text" ] && [ -f "$transcript" ]; then
