@@ -34,6 +34,7 @@
 | 4 → | 19.10.2026 | 11:49 | 🧩 C → 🤖 | Antwort C (95 Tool-Aufrufe) | siehe Abschnitt „→ Antwort“ unten |
 | 3 → | 19.10.2026 | 11:55 | 🧩 B → 🤖 | Antwort B (76 Tool-Aufrufe) | siehe Abschnitt „→ Antwort“ unten |
 | 5 | 19.10.2026 | 11:35–11:56 | 🤖 | Eigene Recherche, Hook-Setup, Synthese in den Präsentationsplan | [PLAN-Praesentation.md](../../fallstudie-1-snocks/PLAN-Praesentation.md) |
+| 7 | 19.10.2026 | 20:55 | 👤 → 🤖 | „mach weiter“ → Interviewleitfaden, Erfassungstabelle, Auswertungsskript, Präsentations-Grundgerüst | siehe #7 |
 
 ---
 
@@ -285,6 +286,21 @@ Neben den Aufträgen an die Unteragenten hat der Haupt-Agent selbst folgende Sch
 | 11:43 | Hook-Fehler korrigiert: Ein interner Claude-Code-Hilfsagent (Eingabevorschlag, kein echter Prompt) wurde fälschlich als „Abschlussbericht“ geloggt → Eintrag entfernt, Filter ergänzt | Saubere Dokumentation: nur echte Prompts und Unteragenten |
 | 11:50 | Direkter Abruf von snocks.com über den Browser im Container → durch Netzwerk-Policy blockiert (403) | Farben/Schriften der Website konnten nicht direkt ausgelesen werden → als offener Prüfpunkt im Plan |
 | 11:56 | Synthese der Berichte A/B/C → [PLAN-Praesentation.md](../../fallstudie-1-snocks/PLAN-Praesentation.md) aktualisiert (Faktenbasis, Arbeitshypothese Markensteuerrad, Prüfliste) | – |
+
+---
+
+## #7 · 👤 → 🤖 · 19.10.2026, 20:55 Uhr · Fortsetzung
+
+**Prompt (wörtlich):**
+
+> mach weiter
+
+**Vorgehen des Haupt-Agenten (Begründung):** Die offenen Fragen (Gruppengröße, Formatvorgabe) sind noch unbeantwortet. Deshalb arbeitet der Haupt-Agent mit Standardannahmen weiter: 4 Personen, keine Formatvorgabe → reveal.js + PDF. Reihenfolge nach Dringlichkeit im Zeitplan:
+1. **Interviewleitfaden + Erfassungstabelle** (Excel) für Repertory Grid, Laddering und Analogien, weil die Gruppe ab Di 20.10. Interviews führen muss.
+2. **Auswertungsskript** (Python), das aus der ausgefüllten Tabelle direkt die Grafiken und Kennzahlen für die Folien erzeugt (mit erfundenen Testdaten geprüft, die **nicht** ins Repo und nicht in die Präsentation gehen).
+3. **Animiertes Grundgerüst der Präsentation** (reveal.js + GSAP), befüllt mit den Ergebnissen der Desk Research. Folien, die auf Interviewdaten warten, sind sichtbar als Platzhalter markiert.
+
+Dieser Schritt wird ohne Unteragenten erledigt (alles in einer Hand, damit Design und Datenformat zusammenpassen).
 
 ---
 
