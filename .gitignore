@@ -1,0 +1,4 @@
+# lokal erzeugte Screenshots (tools/export.cjs)
+fallstudie-1-snocks/praesentation/screenshots/
+__pycache__/
+.DS_Store

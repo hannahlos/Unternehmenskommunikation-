@@ -5,7 +5,7 @@ Unsere Marke: **SNOCKS** (Socken, Unterwäsche & Basics, Mannheim).
 
 | Fallstudie | Thema | Termin | Status |
 |---|---|---|---|
-| **1** | Brand Persona & Markenidentität (Markensteuerrad nach Esch) | **26.10.2026** | 🟡 Desk Research ✅ · Plan ✅ · Interviews offen |
+| **1** | Brand Persona & Markenidentität (Markensteuerrad nach Esch) | **26.10.2026** | 🟡 Desk Research ✅ · Plan ✅ · Präsentation v0 ✅ · Interviews offen |
 | 2 | Customer Journey & Blog-Beitrag | 09.11.2026 | ⚪ offen |
 | 3 | Instagram-Post & Eye-Tracking | 16.11.2026 | ⚪ offen |
 
@@ -19,7 +19,12 @@ Unsere Marke: **SNOCKS** (Socken, Unterwäsche & Basics, Mannheim).
 │       └── auto/                automatisch mitgeschriebenes Roh-Log (ein File pro Tag)
 ├── fallstudie-1-snocks/
 │   ├── research/                Desk-Research-Berichte der Unteragenten A, B, C (mit Quellen)
-│   └── PLAN-Praesentation.md    Plan für die 15-Minuten-Präsentation am 26.10.
+│   ├── interviews/              Interviewleitfaden (Repertory Grid, Laddering, Analogien) + Markenkarten
+│   ├── daten/                   Erfassung_Interviews.xlsx – hier tragen alle ihre Interviews ein
+│   ├── auswertung/              auswertung.py → Heatmap, HVM, Analogien (füllt die Folien automatisch)
+│   ├── praesentation/           ⭐ animierte Präsentation (index.html öffnen) – siehe README dort
+│   ├── export/                  PDF-Version der Präsentation (Plan B)
+│   └── PLAN-Praesentation.md    Plan, Faktenbasis, Prüfliste, Zeitplan bis 26.10.
 └── .claude/
     ├── settings.json            Hook-Konfiguration für Claude Code
     └── hooks/prompt-logger.sh   protokolliert Prompts, Subagent-Aufträge & Websuchen automatisch

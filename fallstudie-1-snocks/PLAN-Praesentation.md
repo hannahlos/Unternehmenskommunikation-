@@ -1,7 +1,10 @@
 # 🧦 Plan: Präsentation Fallstudie 1 – Brand Persona & Markenidentität SNOCKS
 
 > **Termin:** Montag, 26.10.2026 · **Dauer:** 15 Minuten + Rückfragen · **Gruppe:** 3–4 Personen
-> **Stand:** 19.10.2026 · erstellt von Claude Code auf Basis der Desk Research in [`research/`](research/) · Prompts: [PROMPT-LOG.md](../docs/prompt-log/PROMPT-LOG.md)
+>
+> **✅ Stand 19.10.2026, abends:** Präsentation v0 steht ([`praesentation/`](praesentation/), 15 Folien + 6 Backup, PDF in [`export/`](export/)). Interviewleitfaden, Erfassungstabelle und Auswertungsskript sind fertig. **Als Nächstes:** Interviews (Di/Mi) → `auswertung.py` laufen lassen → Ergebnisse erscheinen automatisch in den Folien.
+>
+> **Ursprünglicher Plan:** 19.10.2026 · erstellt von Claude Code auf Basis der Desk Research in [`research/`](research/) · Prompts: [PROMPT-LOG.md](../docs/prompt-log/PROMPT-LOG.md)
 
 ---
 
@@ -223,7 +226,7 @@ Ergebnisse in [`research/`](research/) und zusammengefasst in Abschnitt 2b. Offe
 | Präsentations-Framework | **reveal.js 6.0.2** | Folien, Auto-Animate (Morph), Fragments, Sprechernotizen, Übersichtsmodus |
 | Animationen | **GSAP 3.15** | präzise SVG-Animationen (Rad, Limbic Map, Leitern), Count-ups |
 | Diagramme | **Chart.js 4.5** bzw. handgebautes SVG | animierte Balken-/Donut-/Radar-Charts |
-| Export | **DeckTape 3.16** + Chromium | PDF-Export (Abgabe/Backup, Fragments als Einzelseiten) |
+| Export | **Playwright** + Chromium (`tools/export.cjs`) | PDF-Export im Endzustand jeder Folie (statt DeckTape: einfacher, keine Extra-Abhängigkeit) |
 | Qualitätssicherung | **Playwright** (Chromium vorinstalliert) | automatische Screenshots jeder Folie → Layout-Check auf 16:9 und Beamer-Auflösung |
 | Auswertung | Python (pandas, matplotlib) | Repertory-Grid- und Laddering-Auswertung, Grafiken |
 | Bild-KI | z. B. ChatGPT/DALL·E, Midjourney, Gemini | Persona-Porträt (Prompt wird geloggt) |
@@ -251,10 +254,10 @@ fallstudie-1-snocks/
 
 | Tag | Was | Wer |
 |---|---|---|
-| **Mo 19.10.** | ✅ Desk Research, Plan, Doku-Setup · Gruppe liest Plan & verteilt Rollen | Claude · alle |
-| **Di 20.10.** | Claude: Interviewleitfaden + Erfassungstabelle · Gruppe: Interviews starten (je 2–3) · Screenshots IG/FB/YT sammeln | Claude · alle |
+| **Mo 19.10.** | ✅ Desk Research, Plan, Doku-Setup · ✅ Interviewleitfaden, Erfassungstabelle, Auswertungsskript · ✅ Präsentation v0 (vorgezogen) · Gruppe liest Plan & verteilt Rollen | Claude · alle |
+| **Di 20.10.** | Gruppe: Interviews starten (je 2–3) · Screenshots IG/FB/YT sammeln · Prüfliste abarbeiten · Persona-Porträt per Bild-KI | alle |
 | **Mi 21.10.** | Interviews abschließen, Daten eintragen → Claude wertet aus (Grid-Heatmap, HVM, Analogien) · Persona & Limbic Map final | alle · Claude |
-| **Do 22.10.** | Markensteuerrad + Empfehlungen · Claude baut Foliensatz v1 mit allen Animationen | Claude · D |
+| **Do 22.10.** | Markensteuerrad + Empfehlungen mit Interviewdaten schärfen · Claude baut v1 (Screenshots, Porträt, echte Daten) | Claude · D |
 | **Fr 23.10.** | Review v1 durch die Gruppe → Feedback → v2 · Sprechernotizen | alle · Claude |
 | **Sa/So 24.–25.10.** | 2 Generalproben mit Stoppuhr (Ziel 14:30) · PDF-Export · Offline-Test auf fremdem Laptop | alle |
 | **Mo 26.10.** | 🎤 Präsentation | alle |

@@ -302,6 +302,14 @@ Neben den Aufträgen an die Unteragenten hat der Haupt-Agent selbst folgende Sch
 
 Dieser Schritt wird ohne Unteragenten erledigt (alles in einer Hand, damit Design und Datenformat zusammenpassen).
 
+**Ergebnis (19.10.2026, ca. 21:20 Uhr):**
+- [`interviews/Interviewleitfaden.md`](../../fallstudie-1-snocks/interviews/Interviewleitfaden.md): 25-Min.-Leitfaden mit 5 festen Triaden, Laddering-Fragen, Analogien und Markenkarten.
+- [`daten/Erfassung_Interviews.xlsx`](../../fallstudie-1-snocks/daten/Erfassung_Interviews.xlsx): Eingabeblätter mit Dropdowns, Beispielzeilen und Codebuch; Formeln mit LibreOffice nachgerechnet (0 Fehler).
+- [`auswertung/auswertung.py`](../../fallstudie-1-snocks/auswertung/auswertung.py): Heatmap, Markeneigenschaften, Wahrnehmungskarte, HVM, Analogie-Häufigkeiten. Mit erfundenen Testdaten geprüft, die nur im temporären Arbeitsordner lagen und **weder im Repo noch in der Präsentation** stehen.
+- [`praesentation/`](../../fallstudie-1-snocks/praesentation/): 15 Folien + 6 Backup, reveal.js + GSAP, offline lauffähig; [PDF-Export](../../fallstudie-1-snocks/export/SNOCKS-Fallstudie1.pdf).
+- **Qualitätssicherung:** Screenshots aller Folien automatisch erzeugt und geprüft, Überläufe korrigiert; Live-Test aller Animationen vorwärts und rückwärts ohne Browser-Fehler; Diagrammfarben mit einem Validator für Farbsehschwäche geprüft.
+- **Korrektur:** Auf den Markenkarten hatte der Haupt-Agent zunächst Preise für FALKE und erlich textil geschätzt. Diese standen nicht in der Desk Research und wurden deshalb durch einen Prüfhinweis ersetzt („vor dem ersten Interview nachsehen“).
+
 ---
 
 ## 📝 Vorlage für manuelle Einträge (andere KI-Tools)
