@@ -208,3 +208,35 @@ Anforderungen:
 > - Kritik: Plagiatsvorwurf (Buttz) gegen die „Hintern“-Kampagne, vorzeitig beendet (W&V, Datum unklar).
 
 **Bewertung durch den Haupt-Agenten:** Gute Grundlage für Markenkompetenz und die Grid-Elemente. Die Umsatzzahlen 2024/2025 widersprechen sich zwischen den Quellen. Die Website-Inhalte (Mission/Werte) waren nicht direkt abrufbar und müssen vor dem Folienbau gegen die Primärquelle geprüft werden.
+
+## #4 → Antwort · 🧩 C → 🤖 · 19.10.2026, 11:49 Uhr · Kommunikationsanalyse & Corporate Design
+
+**Laufzeit:** ca. 14 Min. · 95 Tool-Aufrufe (einzeln im [Auto-Log](auto/2026-10-19.md)) · **Vollständiger Bericht:** [C-kommunikationsanalyse.md](../../fallstudie-1-snocks/research/C-kommunikationsanalyse.md)
+
+**Antwort des Unteragenten (wörtlich):**
+
+> ## Zusammenfassung für den Haupt-Agenten
+>
+> **Methodik-Hinweis:** snocks.com, Instagram und YouTube waren technisch nicht direkt abrufbar (DNS- bzw. Proxy-Fehler). Alle Angaben stammen aus 75 Websuchen; danach war das Suchbudget erschöpft. Hex-Codes aus dem CSS und Schriftarten: **nicht gefunden**.
+>
+> **Kanäle (Followerzahlen aus Drittquellen, unsicher):**
+> - Instagram `@snocks`: 285.867 Follower (Likeometer, 28.09.2026); 2022 waren es 111.739, Engagement 0,75 % (SpeakRJ). Bio: „You focus on your purpose, we focus on your basics – #feelthefit“ [instagram.com/snocks]
+> - TikTok `@snocks.feelthefit`: ca. 126.500 Follower, 1,9 Mio. Likes; älterer Account `@snocks.whynot` [tiktok.com]
+> - Facebook: ca. 44.000 Follower, vor allem Ad- und Performance-Kanal („Das größte Volumen bringen bei uns Facebook und Amazon“, 2021) [omkb.de]
+> - YouTube `@snocks-whynot`: „Dem coolsten Socken Start-Up aus Mannheim! 🔥 Wir leben nach dem Motto WHY NOT!“; Schwerpunkt Creator-Sponsoring mit 143 Creatorn, ca. 1.200 Videos und 133 Mio. Views [creatordb.app]
+> - LinkedIn: ca. 22.500 Follower; Corporate Influencing mit über 30 Posts und ca. 575.000 Impressions pro Woche [meedia.de]
+> - WhatsApp-Newsletter: ca. 3 Mio. € Umsatz [omr.com]; Podcast „E-Commerce, Why Not?!“ erscheint montags
+>
+> **Corporate Design:** Wortmarke „SNOCKS“ in Versalien, minimalistisch, nach dem Inhouse-Rebranding um 2024 (Tamara Göbel, Robin Hanreich) [podcast.de]; 🧦 als Social-Signet. Farben laut Brandfetch (unbestätigt, vermutlich vor dem Rebranding): #FAC950, #FFFFFF, #333333. Bildsprache: echte Community statt Models, UGC und Short-Form, KI-Produktvisuals. Versandkarton aus Wellpappe ohne Klebeband (THIMM).
+>
+> **Claims und Ton:** „SNOCKS. feel the fit.“ (Website-Titel), früher „WHY NOT!“, Kampagnenslogan „Für jeden Arsch das Richtige“ (OOH Hamburg, Okt. 2024). Du-Ansprache, Emojis selbst in Produkttiteln („Anti-Loch-Garantie 💯“), derber Humor, Anglizismen, Superlative („weltbeste Community“), Garantien (12 Monate Anti-Loch, 100 Tage Rückgabe).
+>
+> **Kampagnen:** erste OOH-Kampagne 2024 mit Kund:innen-Pos und Influencer Jan Schlappen; Kritik von W&V („abgekupfert“). TV seit 2023 mit Prime-Video-Stunt „Fake-Stream-Hänger“ [omr.com]; Pepsi x SNOCKS 2024. Prominente Testimonials und Sponsoring: **nicht gefunden**.
+>
+> **Gründer:** Johannes Kliesch ist das zentrale Markengesicht („Ich will der Jürgen Klopp des E-Commerce werden“). Seine Personal Brand ist professionell gesteuert: Ghostwriter, sechs LinkedIn-Posts pro Woche, seit 2024 die Agentur Oneframe [wuv.de]. Die Markenkommunikation wird inzwischen unabhängiger vom Gründer.
+>
+> **Aaker (Interpretation):** Erregung sehr hoch, Aufrichtigkeit hoch, Kompetenz hoch, Robustheit mittel, Kultiviertheit niedrig. Analogien: Mensch = „Kumpel aus der Mannheimer Startup-WG“, Promi = Jürgen Klopp, Tier = Golden Retriever, Auto = VW Golf GTI. Emotionen: Wohlgefühl, Spaß, Vertrauen, Zugehörigkeit, Mut.
+>
+> **Vollbericht:** /home/user/Unternehmenskommunikation-/fallstudie-1-snocks/research/C-kommunikationsanalyse.md
+
+**Bewertung durch den Haupt-Agenten:** Liefert viel Material für Markenbild und Tonalität. Zwei Punkte widersprechen Bericht A und werden vor dem Folienbau geprüft: die Anti-Loch-Garantie (A: 6 Monate, C: 12 Monate) und die Markenfarben (die Brandfetch-Werte stammen vermutlich aus der Zeit vor dem Rebranding). Weil die Unteragenten snocks.com nicht abrufen konnten, versucht der Haupt-Agent anschließend einen direkten Abruf über den Browser im Container (Abschnitt #5).
