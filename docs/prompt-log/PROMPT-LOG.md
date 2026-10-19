@@ -29,6 +29,11 @@
 | 2 | 19.10.2026 | 11:35 | 🤖 → 🧩 A | Desk Research: Unternehmen, Sortiment, Wettbewerb | [A-unternehmen-und-wettbewerb.md](../../fallstudie-1-snocks/research/A-unternehmen-und-wettbewerb.md) |
 | 3 | 19.10.2026 | 11:35 | 🤖 → 🧩 B | Desk Research: Zielgruppe, Brand Persona, Limbic Map | [B-zielgruppe-und-persona.md](../../fallstudie-1-snocks/research/B-zielgruppe-und-persona.md) |
 | 4 | 19.10.2026 | 11:35 | 🤖 → 🧩 C | Desk Research: Kommunikationsanalyse & Corporate Design | [C-kommunikationsanalyse.md](../../fallstudie-1-snocks/research/C-kommunikationsanalyse.md) |
+| 6 | 19.10.2026 | 11:41 | 👤 → 🤖 | „Ist behoben“ (GitHub-Zugriff neu verbunden) | Push erfolgreich, siehe #5 |
+| 2 → | 19.10.2026 | 11:48 | 🧩 A → 🤖 | Antwort A (88 Tool-Aufrufe) | siehe Abschnitt „→ Antwort“ unten |
+| 4 → | 19.10.2026 | 11:49 | 🧩 C → 🤖 | Antwort C (95 Tool-Aufrufe) | siehe Abschnitt „→ Antwort“ unten |
+| 3 → | 19.10.2026 | 11:55 | 🧩 B → 🤖 | Antwort B (76 Tool-Aufrufe) | siehe Abschnitt „→ Antwort“ unten |
+| 5 | 19.10.2026 | 11:35–11:56 | 🤖 | Eigene Recherche, Hook-Setup, Synthese in den Präsentationsplan | [PLAN-Praesentation.md](../../fallstudie-1-snocks/PLAN-Praesentation.md) |
 
 ---
 
@@ -240,3 +245,62 @@ Anforderungen:
 > **Vollbericht:** /home/user/Unternehmenskommunikation-/fallstudie-1-snocks/research/C-kommunikationsanalyse.md
 
 **Bewertung durch den Haupt-Agenten:** Liefert viel Material für Markenbild und Tonalität. Zwei Punkte widersprechen Bericht A und werden vor dem Folienbau geprüft: die Anti-Loch-Garantie (A: 6 Monate, C: 12 Monate) und die Markenfarben (die Brandfetch-Werte stammen vermutlich aus der Zeit vor dem Rebranding). Weil die Unteragenten snocks.com nicht abrufen konnten, versucht der Haupt-Agent anschließend einen direkten Abruf über den Browser im Container (Abschnitt #5).
+
+## #3 → Antwort · 🧩 B → 🤖 · 19.10.2026, 11:55 Uhr · Zielgruppe, Brand Persona & Limbic Map
+
+**Laufzeit:** ca. 21 Min. · 76 Tool-Aufrufe (einzeln im [Auto-Log](auto/2026-10-19.md)) · **Vollständiger Bericht:** [B-zielgruppe-und-persona.md](../../fallstudie-1-snocks/research/B-zielgruppe-und-persona.md)
+
+**Antwort des Unteragenten (wörtlich):**
+
+> ## 10. Zusammenfassung für den Haupt-Agenten
+>
+> - **Methodik:** WebFetch war durch die Netzwerk-Policy blockiert (u. a. snocks.com, trustpilot.com, wikipedia.org). Alle Angaben stammen aus Suchergebnis-Auszügen (59 Suchen, danach war das Kontingent erschöpft). Zitate und Zahlen vor der Präsentation am Original prüfen. Freigabe in den Environment-Einstellungen unter „Network access“ → „Allowed domains“.
+> - **Unternehmen:** Umsatz 2024 83 Mio. € [Q3]; 2025 ca. 110 Mio. € (Eigenangabe) [Q1]; Start 2016 auf Amazon [Q18].
+> - **Demografie (Similarweb-Schätzung, widersprüchlich):** Juni 2026: 57,4 % männlich, größte Altersgruppe 25–34 [Q19]; Juli 2026: 53,2 % männlich, größte Gruppe 45–54 [Q20]. Deutschland 65–76 % des Desktop-Traffics, danach AT, PL, FR. Unternehmensangaben zum Kundenalter: nicht gefunden.
+> - **Sortiment als Proxy:** älterer Mix 50 % Herrenunterwäsche, 30 % Socken, 15 % Damenunterwäsche [Q12]; Damensortiment war der Wachstumstreiber 2021 [Q13].
+> - **Kanäle:** Amazon 2023 wichtigster Kanal, 15–20 % über Zalando, About You und Otto [Q8]; Marktplätze 2024 ca. 30 Mio. € [Q3]; Handel seit 2023 [Q104]; keine eigenen Filialen [Q2].
+> - **Bindung und Preis:** Club-Mitglieder kaufen mit 3,5-facher Wahrscheinlichkeit ein zweites Mal [Q46]; Abo −20 %, Bundles bis −15 % [Q40]; Black Friday bis −50 %, Staffel 10/20/30 % ab 45/90/155 € [Q41]. Warenkorb und Wiederkaufrate: nicht gefunden.
+> - **Bewertungen:** Trusted Shops 4,42 (59.130) [Q27]; Trustpilot 4,5–4,6 (ca. 10.000+) [Q24]; Amazon-Boxershorts nur 3,5–4,2 (z. B. 3,9 bei 22.711) [Q32]. Lob: Komfort, Passform, Lieferung. Kritik: Löcher, Garantie-Abwicklung, Größen, Verzögerungen bei Sales [Q26], [Q34].
+> - **Medien:** ARD/ZDF 2026: Instagram 40 %, Facebook 28 %, TikTok 18 % wöchentlich; 30–49-Jährige 74 % Social Media pro Woche [Q67]; YouTube bei 30–49 J. 60 % (2025) [Q73]. Bitkom 2026: 29 % kaufen über soziale Netzwerke [Q79].
+> - **SNOCKS-Kommunikation:** Video ca. 70 % des Meta-Umsatzes, 20–30 neue Creatives pro Woche [Q53]; 145 gesponserte Creator, vor allem YouTube [Q55]; Gründer-LinkedIn mit 575.000 Impressions pro Woche [Q57]; WhatsApp-Newsletter 3 Mio. € [Q8]. Meta-Werbebibliothek nicht prüfbar.
+> - **Psychografie und Sinus (Annahme):** Komfort, Verlässlichkeit, Preis-Leistung, Convenience; Nachhaltigkeit eher Hygienefaktor. Primär Adaptiv-Pragmatische Mitte, sekundär Performer.
+> - **Limbic Map (Vorschlag):** Produktversprechen = Balance mit Drift zu Disziplin/Kontrolle; Kommunikation mit Stimulanz-Akzent; Gründermarke = Dominanz. Zielgruppe: Disziplinierte/Performer (primär), Harmoniser (sekundär) [Q89], [Q97].
+> - **Personas:** Primär „Jonas Berger, 33, Köln, IT-Projektmanager“; sekundär „Sandra Krämer, 46, Rhein-Neckar, Familien-Einkäuferin“. Alle Merkmale sind als belegt, Annahme oder fiktiv gekennzeichnet.
+
+**Bewertung durch den Haupt-Agenten:** Der stärkste der drei Berichte. Jede Persona-Eigenschaft ist als belegt [B], abgeleitet [A] oder fiktiv [F] gekennzeichnet, was direkt in Backup-Folie B5 übernommen werden kann. Die Similarweb-Daten widersprechen sich jedoch (größte Altersgruppe 25–34 vs. 45–54). Das muss die Gruppe am Original klären, bevor die Persona festgelegt wird. Zusätzlich zeigt der Bericht ein interessantes Spannungsfeld auf, das sich als Kernthese der Präsentation eignet: ein Produktversprechen im Bereich Balance (Sicherheit, Komfort) gegenüber einer Kommunikation im Bereich Stimulanz (Humor, Provokation).
+
+---
+
+## #5 · 🤖 Haupt-Agent · 19.10.2026, 11:35–11:56 Uhr · Eigene Recherche, Technik-Setup & Synthese
+
+Neben den Aufträgen an die Unteragenten hat der Haupt-Agent selbst folgende Schritte ausgeführt (alle Websuchen auch im [Auto-Log](auto/2026-10-19.md)):
+
+| Uhrzeit | Aktion | Zweck / Ergebnis |
+|---|---|---|
+| 11:35 | Hook `prompt-logger.sh` gebaut, mit simulierten Eingaben getestet, in `.claude/settings.json` aktiviert | Automatische Prompt-Dokumentation; ab 11:35:52 live (protokolliert auch die Websuchen der Unteragenten) |
+| 11:35 | 🔎 Websuche `reveal.js latest release version 2026` | Technikentscheidung für die Präsentation |
+| 11:35 | 🔎 Websuche `Slidev vs reveal.js animations presentation 2026` | Vergleich der Präsentations-Frameworks → Entscheidung für reveal.js (Auto-Animate, freie SVG-Animationen, offline lauffähig) |
+| 11:36 | npm-Registry abgefragt: reveal.js 6.0.2, GSAP 3.15.0, Chart.js 4.5.1, DeckTape 3.16.1 | Aktuelle Versionen für den Technik-Stack |
+| 11:39 | Push zu GitHub schlägt fehl (403, App-Zugriff fehlte) → Gruppe hat GitHub neu verbunden (11:41) → Push erfolgreich | – |
+| 11:43 | Hook-Fehler korrigiert: Ein interner Claude-Code-Hilfsagent (Eingabevorschlag, kein echter Prompt) wurde fälschlich als „Abschlussbericht“ geloggt → Eintrag entfernt, Filter ergänzt | Saubere Dokumentation: nur echte Prompts und Unteragenten |
+| 11:50 | Direkter Abruf von snocks.com über den Browser im Container → durch Netzwerk-Policy blockiert (403) | Farben/Schriften der Website konnten nicht direkt ausgelesen werden → als offener Prüfpunkt im Plan |
+| 11:56 | Synthese der Berichte A/B/C → [PLAN-Praesentation.md](../../fallstudie-1-snocks/PLAN-Praesentation.md) aktualisiert (Faktenbasis, Arbeitshypothese Markensteuerrad, Prüfliste) | – |
+
+---
+
+## 📝 Vorlage für manuelle Einträge (andere KI-Tools)
+
+Bitte unten anhängen und die Nummer fortlaufend vergeben:
+
+```markdown
+## #N · 👤 [Name] → [Tool, z. B. ChatGPT / Midjourney] · TT.MM.JJJJ, HH:MM Uhr · [Kurztitel]
+
+**Begründung:** Warum wurde dieses Tool/dieser Prompt eingesetzt?
+
+**Prompt (wörtlich):**
+> …
+
+**Antwort / Ergebnis:** (wörtlich oder Screenshot-Link, z. B. `docs/prompt-log/anhang/…png`)
+
+**Bewertung / Weiterverwendung:** Was wurde übernommen, was verworfen, was geprüft?
+```

@@ -5,7 +5,7 @@ Unsere Marke: **SNOCKS** (Socken, Unterwäsche & Basics, Mannheim).
 
 | Fallstudie | Thema | Termin | Status |
 |---|---|---|---|
-| **1** | Brand Persona & Markenidentität (Markensteuerrad nach Esch) | **26.10.2026** | 🟡 Recherche & Planung |
+| **1** | Brand Persona & Markenidentität (Markensteuerrad nach Esch) | **26.10.2026** | 🟡 Desk Research ✅ · Plan ✅ · Interviews offen |
 | 2 | Customer Journey & Blog-Beitrag | 09.11.2026 | ⚪ offen |
 | 3 | Instagram-Post & Eye-Tracking | 16.11.2026 | ⚪ offen |
 

@@ -9,6 +9,8 @@
 
 **Ziel:** In 15 Minuten nachvollziehbar zeigen, *wie* wir mit Desk Research, KI und Primärbefragung die Markenidentität von SNOCKS hergeleitet haben – und *was* dabei herauskommt: ein vollständig begründetes **Markensteuerrad nach Esch**.
 
+**Kernthese (aus der Desk Research):** SNOCKS verspricht *Balance* – Komfort, Haltbarkeit, Sicherheit („feel the fit.“, Anti-Loch-Garantie) – kommuniziert aber mit viel *Stimulanz* – Humor, Provokation, ständig neue Creatives („Für jeden Arsch das Richtige“). Unsere Analyse zeigt, wie beides zusammengehört, und endet mit der Empfehlung **„Sicherheit mit Augenzwinkern“**.
+
 **Roter Faden (Storyline):** Jede Methode liefert genau einen Baustein des Markensteuerrads. Das Rad baut sich im Lauf der Präsentation schrittweise auf (kleines Rad-Icon oben rechts füllt sich Quadrant für Quadrant) und steht am Ende komplett – so sieht das Publikum jederzeit, wo wir gerade sind.
 
 ```
@@ -40,12 +42,12 @@
 
 | # | Folie | Kernaussage (Headline) | Visualisierung & Animation | Zeit | Sprecher:in |
 |---|---|---|---|---|---|
-| 0 | **Titel** | „SNOCKS – Basics mit Haltung? Brand Persona & Markenidentität“ | Vollflächiges Key-Visual, Titel fährt per Auto-Animate ein; Socken-Icon „läuft“ ins Bild | 0:20 | A |
+| 0 | **Titel** | „SNOCKS – feel the fit? Brand Persona & Markenidentität“ | Vollflächiges Key-Visual, Titel fährt per Auto-Animate ein; Socken-Icon „läuft“ ins Bild | 0:20 | A |
 | 1 | **Unser Vorgehen** | „6 Methoden → 1 Markensteuerrad“ | Methodenpfad als Roadmap (siehe Diagramm oben); Stationen erscheinen nacheinander (Fragments), Rad-Icon rechts leer | 0:40 | A |
-| 2 | **SNOCKS auf einen Blick** | Kurzporträt: Gründung, Wachstum, Sortiment | Zeitstrahl 2016 → 2026 mit Meilensteinen, Kennzahlen zählen hoch (Count-up), Umsatzkurve zeichnet sich (SVG-Path-Draw) | 1:00 | A |
-| 3 | **Brand Persona I – Wer ist es?** | Steckbrief der Primär-Persona | Persona-Karte im „Profil“-Look (KI-generiertes Porträt, Name, Alter, Wohnort, Beruf, Einkommen, Zitat); Karte dreht sich auf (3D-Flip) | 1:15 | A |
+| 2 | **SNOCKS auf einen Blick** | „Von 4.000 € und Amazon-Socken zum House of Brands“ | Zeitstrahl 2016 → 2026 mit Meilensteinen, Kennzahlen zählen hoch (Count-up), Umsatzkurve zeichnet sich (SVG-Path-Draw) | 1:00 | A |
+| 3 | **Brand Persona I – Wer ist es?** | „Jonas, 33, will Basics auf Autopilot“ (+ Sekundär-Persona Sandra, 46, als kleine Karte) | Persona-Karte im „Profil“-Look (KI-generiertes Porträt, Name, Alter, Wohnort, Beruf, Einkommen, Zitat); Karte dreht sich auf (3D-Flip) | 1:15 | A |
 | 4 | **Brand Persona II – Wie kauft & mediennutzt sie?** | Kaufverhalten + Mediennutzung + Psychografie | Links: Tag-im-Leben-Zeitleiste mit Touchpoints; rechts: animiertes Balkendiagramm Plattformnutzung (Studienquelle); DACH-Karte mit Heat-Punkten (Geografie) | 1:00 | A |
-| 5 | **Limbic Map** | „Balance trifft Stimulanz – SNOCKS sitzt bei …“ | Animierte Limbic Map (SVG): Emotionsfelder blenden ein, dann „fliegen“ Persona-Punkt und Marken-Punkt an ihre Position; Begriffe der SNOCKS-Kommunikation leuchten auf | 1:15 | B |
+| 5 | **Limbic Map** | „Balance-Versprechen trifft Stimulanz-Kommunikation“ | Animierte Limbic Map (SVG): Emotionsfelder blenden ein, dann „fliegen“ Persona-Punkt und Marken-Punkt an ihre Position; Begriffe der SNOCKS-Kommunikation leuchten auf | 1:15 | B |
 | 6 | **Repertory Grid – Methode** | „Wie Kund:innen SNOCKS von Wettbewerbern unterscheiden“ | Triaden-Karten (3 Marken-Logos) mischen sich, Konstrukt-Paar erscheint („bequem ↔ kratzig“); Mini-Erklärung nach Kelly | 0:45 | B |
 | 7 | **Repertory Grid – Ergebnis** | Top-5 differenzierende Markeneigenschaften | Heatmap (Marken × Konstrukte) baut sich zeilenweise auf; danach Fokus-Zoom auf die SNOCKS-Spalte; Top-Eigenschaften werden als Chips ins Rad-Icon „gezogen“ (→ Attribute) | 1:00 | B |
 | 8 | **Laddering** | Vom Attribut zum Wert: Markennutzen | 2–3 Means-End-Leitern bauen sich stufenweise von unten nach oben auf (Attribut → funktionale Konsequenz → psychosoziale Konsequenz → Wert); daraus Hierarchical Value Map; Nutzen werden ins Rad gezogen (→ Nutzen) | 1:30 | B/C |
@@ -53,7 +55,7 @@
 | 10 | **Kommunikationsanalyse – Kanäle** | Wie SNOCKS auf Instagram, Facebook, YouTube kommuniziert | Drei Smartphone-Mockups mit echten Screenshots (Quellenangabe), Follower-Zahlen zählen hoch, Content-Format-Donut je Kanal | 1:00 | C |
 | 11 | **Kommunikationsanalyse – Corporate Design** | Logo, Farben, Typografie, Bildwelten, Slogan | Moodboard-Raster fährt ein (Masonry), Farbpalette als Swatches mit Hex-Codes, Schriftmuster; Schlüsselbilder hervorgehoben (→ Markenbild) | 1:00 | C |
 | 12 | **Markensteuerrad** | Die Identität von SNOCKS auf einen Blick | **Highlight-Animation:** Das große Rad baut sich auf – Mitte (Kompetenz) zuerst, dann die vier Quadranten nacheinander, jeweils mit 3–4 Stichworten; linke (rationale) und rechte (emotionale) Hälfte farblich getrennt | 1:30 | D |
-| 13 | **Fazit & Empfehlung** | 3 Handlungsempfehlungen für die Markenführung | Drei Karten mit Icons; Abgleich Identität ↔ wahrgenommenes Image (wo stimmt es, wo nicht) | 0:45 | D |
+| 13 | **Fazit & Empfehlung** | „Sicherheit mit Augenzwinkern“ – 3 Handlungsempfehlungen (z. B. Garantie-Erlebnis reibungslos machen, Humor je Persona dosieren, Haltbarkeit beweisen statt behaupten) | Drei Karten mit Icons; Abgleich Identität ↔ wahrgenommenes Image (wo stimmt es, wo nicht) | 0:45 | D |
 | 14 | **Danke / Fragen** | – | Ruhiges Schlussbild, QR-Code zum Repo/Prompt-Log | 0:10 | D |
 | | | | | **≈ 14:35** | |
 
@@ -70,10 +72,89 @@
 
 ---
 
+## 2b. Faktenbasis aus der Desk Research (Stand 19.10.2026)
+
+Details und alle Quellen: [A – Unternehmen & Wettbewerb](research/A-unternehmen-und-wettbewerb.md) · [B – Zielgruppe & Persona](research/B-zielgruppe-und-persona.md) · [C – Kommunikationsanalyse](research/C-kommunikationsanalyse.md).
+⚠️ = widersprüchlich oder nur aus Drittquellen → vor dem Folienbau am Original prüfen (Prüfliste unten).
+
+### Markenkompetenz – „Wer bin ich?“ (A)
+- **2016** in **Mannheim** von den Cousins **Johannes Kliesch & Felix Bauer** gegründet: 4.000 € Startkapital, Sneaker-Socken auf Amazon.
+- **Umsatz:** 0,4–0,5 Mio. € (2017) → 32 Mio. (2021) → 57 Mio. (2022) → ca. 70 Mio. (2023) → ca. 83 Mio. (2024) → ca. 110 Mio. € (2025, Eigenangabe ⚠️).
+- ca. 150–160 Mitarbeitende (2025, Eigenangabe); Minderheitsbeteiligung Cathay Capital (2022); Co-CEOs Kliesch & Rehan Choudhry (seit 12/2023).
+- **„House of Brands“:** Übernahme von Oceansapart (2024), femtis (2025) und Les Lunes (2026), jeweils aus der Insolvenz.
+- **Vertrieb:** eigener Shop als größter Kanal; Marktplätze (Amazon, Zalando, About You, Otto) ca. ⅓; Handel seit 2023 (u. a. Decathlon, Breuninger); keine eigenen Stores.
+- **Gründer als Gesicht:** Kliesch als Personal Brand (LinkedIn ~575.000 Impressions/Woche, Podcast „E-Commerce, Why Not?!“, ARD-Doku 2025).
+
+### Markenattribute – Kandidaten für das Repertory Grid (A, C)
+- Hoher Anteil Bio-Baumwolle, Grüner Knopf 2.0, OEKO-TEX Standard 100
+- Anti-Loch-Garantie (⚠️ 6 vs. 12 Monate, je nach Quelle/Produkt), 100 Tage Rückgabe
+- Multipacks, Bundles, Abo (−20 %); z. B. 6 Paar Sneaker-Socken 29,99 €, 6 Boxershorts 48,99 € UVP
+- Größen bis 5XL, „ohne kratzenden Zettel“
+- **Grid-Elemente (Vorschlag, 7 + Ideal):** SNOCKS · FALKE · Happy Socks · erlich textil · Calvin Klein Underwear · Uniqlo · Lidl-Eigenmarke · *„meine ideale Basics-Marke“*
+
+### Zielgruppe & Brand Persona (B)
+- **Primär-Persona „Jonas Berger“**, 33, Köln, IT-Projektmanager, ca. 3.300 € netto. Kauft 2–3× im Jahr 6er-Packs (Sale, Black Friday), Erstkontakt über den Rabattcode eines YouTube-Creators, prüft Amazon-Sterne und Garantie. Limbic-Typ: Diszipliniert mit Performer-Anteil; Sinus-Milieu: Adaptiv-Pragmatische Mitte.
+  *Zitat:* „Ich will über Unterwäsche genau einmal nachdenken – beim Bestellen.“
+- **Sekundär-Persona „Sandra Krämer“**, 46, Rhein-Neckar, kauft für die Familie, Limbic-Typ: Harmoniser/Offene.
+- **Datenlage ⚠️:** Similarweb widersprüchlich (größte Altersgruppe 25–34 bzw. 45–54; 53–57 % männlich); Deutschland 65–76 % des Traffics, danach AT, PL, FR.
+- **Kaufverhalten:** stark rabattgetrieben (Black Friday bis −50 %, Staffelrabatte); Club-Mitglieder kaufen mit 3,5-facher Wahrscheinlichkeit erneut. Bewertungen: Trusted Shops 4,42 (59.130), Trustpilot 4,5–4,6, Amazon 3,5–4,2. Lob für Komfort und Passform, Kritik an Löchern und der Abwicklung der Garantie.
+- **Mediennutzung (ARD/ZDF-Medienstudie 2026):** Instagram 40 %, Facebook 28 %, TikTok 18 % wöchentlich; YouTube 60 % bei den 30–49-Jährigen.
+
+### Limbic Map – Verortung (B)
+| Ebene | Position | Belege |
+|---|---|---|
+| Produktversprechen | **Balance** → Drift zu Disziplin/Kontrolle | „feel the fit.“, Anti-Loch-Garantie, fairer Preis, Multipacks/Abo |
+| Kommunikation | **Stimulanz** (punktuell Abenteuer) | Humor, „Für jeden Arsch das Richtige“, 20–30 neue Creatives pro Woche, Rabatt-Belohnung |
+| Gründer-/Unternehmensmarke | **Dominanz** | „Jürgen Klopp des E-Commerce“, Übernahmen, Europa-Führungsanspruch |
+| Zielgruppe | Balance ↔ Disziplin/Kontrolle | Bewertungsmotive: Komfort, Haltbarkeit, Preis-Leistung |
+
+### Markenbild – Kommunikationsanalyse (C)
+- **Kanäle ⚠️:** Instagram @snocks ~286 Tsd. Follower (09/2026, Drittquelle) · TikTok @snocks.feelthefit ~126 Tsd. · Facebook ~44 Tsd. (vor allem Performance-Kanal) · YouTube: weniger eigener Kanal, mehr Creator-Sponsoring (~143 Creator, ~1.200 Videos) · LinkedIn ~22,5 Tsd. · WhatsApp-Newsletter (~3 Mio. € Umsatz).
+- **Claims:** „feel the fit.“ (aktuell) · früher „WHY NOT!“ · Instagram-Bio „You focus on your purpose, we focus on your basics“ · OOH-Kampagne 2024 „Für jeden Arsch das Richtige“ (Plagiatsvorwurf durch W&V).
+- **Corporate Design:** Wortmarke „SNOCKS“ in Versalien (Inhouse-Rebranding um 2024), 🧦 als Social-Signet; Farben ⚠️ (Brandfetch: #FAC950 / #333333 / #FFFFFF, evtl. vor dem Rebranding).
+- **Bildwelten:** echte Community statt Models, UGC, Short-Form-Video, Creator-Content.
+- **Tonalität:** Du-Ansprache, Emojis sogar in Produkttiteln, derber Humor, Anglizismen, Superlative („weltbeste Community“).
+
+### Markentonalität – Analogie-Hypothesen (C) → in den Interviews prüfen!
+| Analogie | KI-Hypothese | Begründung (Kurzform) |
+|---|---|---|
+| Mensch | „Der Kumpel aus der Mannheimer Startup-WG“ | nahbar, locker, verlässlich, ein bisschen frech |
+| Prominente Person | Jürgen Klopp | Gründer-Selbstbild, Energie, Humor, Teamgeist |
+| Tier | Golden Retriever | freundlich, treu, verspielt, für alle zugänglich |
+| Auto | VW Golf GTI | Alltagsauto mit sportlichem Twist, Massenmarkt mit Charakter |
+| Aaker-Profil | Erregung ★★★★★ · Aufrichtigkeit ★★★★ · Kompetenz ★★★★ · Robustheit ★★★ · Kultiviertheit ★★ | |
+| Markenemotionen | Wohlgefühl · Spaß · Vertrauen · Zugehörigkeit · Mut | |
+
+### 🎯 Arbeitshypothese Markensteuerrad (wird durch Grid, Laddering & Analogien bestätigt oder korrigiert)
+
+| Bereich (Esch) | Leitfrage | Hypothese |
+|---|---|---|
+| **Markenkompetenz** (Mitte) | Wer bin ich? | Mannheimer D2C-Pionier für Basics seit 2016; vom Amazon-Seller zum „House of Brands“; Performance-Marketing-DNA |
+| **Markenattribute** | Über welche Eigenschaften verfüge ich? | Bio-Baumwolle · Anti-Loch-Garantie · Multipacks zum fairen Preis · Größen bis 5XL · ohne kratzenden Zettel |
+| **Markennutzen** | Was biete ich an? | *funktional:* passt, hält, spart Zeit & Geld · *emotional:* sich im eigenen Körper wohlfühlen, „ein Thema weniger“ |
+| **Markentonalität** | Wie bin ich? | locker · mutig · humorvoll · nahbar · ehrlich |
+| **Markenbild** | Wie trete ich auf? | Wortmarke SNOCKS · „feel the fit.“ · echte Menschen statt Models · Creator-/UGC-Videos · Du + Emojis |
+
+### ⚠️ Prüfliste vor dem Folienbau (bis Mi 21.10.)
+| # | Was prüfen | Wo | Wer |
+|---|---|---|---|
+| 1 | Umsatz 2025 (110 Mio. € vs. +20 %) | Presse-Seite SNOCKS, FashionUnited | A |
+| 2 | Anti-Loch-Garantie: 6 oder 12 Monate? | Produktseiten snocks.com | B |
+| 3 | Demografie (Alter, Geschlecht, Länder) | Similarweb, Screenshot mit Datum | A |
+| 4 | Follower-Zahlen | direkt auf den Profilen, Screenshot mit Datum | C |
+| 5 | Aktuelle Markenfarben und Schriften | snocks.com (z. B. Browser-Erweiterungen „WhatFont“, „ColorZilla“) | C |
+| 6 | Mission, Vision, Werte | „Über uns“-/Karriere-Seite | D |
+| 7 | Kliesch als „Löwe“ bei *Die Höhle der Löwen* (seit 09/2026) | Senderseite VOX/RTL+ | D |
+| 8 | Wörtliche Bewertungszitate | Trustpilot, Trusted Shops, Amazon | B |
+
+> **Warum manuell?** Die Netzwerk-Policy der Cloud-Umgebung blockiert snocks.com, Instagram, YouTube, Trustpilot u. a. – die KI konnte diese Seiten nicht direkt öffnen und hat nur über Suchergebnisse recherchiert. Wird die Policy erweitert, kann Claude die Prüfung übernehmen.
+
+---
+
 ## 3. Inhaltliche Arbeitspakete (was bis wann erarbeitet wird)
 
 ### AP1 · Desk Research ✅ (19.10., Claude + Unteragenten A/B/C)
-Ergebnisse in [`research/`](research/). Liefert Unternehmensfakten, Wettbewerber, Zielgruppendaten, Kommunikationsanalyse.
+Ergebnisse in [`research/`](research/) und zusammengefasst in Abschnitt 2b. Offen ist nur noch die manuelle Prüfliste.
 
 ### AP2 · Brand Persona + Limbic Map (20.–21.10.)
 - Persona aus Research B finalisieren; jedes Merkmal mit „belegt / abgeleitet“ kennzeichnen (Backup B5).
@@ -81,7 +162,7 @@ Ergebnisse in [`research/`](research/). Liefert Unternehmensfakten, Wettbewerber
 - Limbic Map: Persona und Marke verorten, mit Belegen aus Claims/Captions.
 
 ### AP3 · Repertory Grid (Befragung 20.–21.10., Auswertung 21.10.)
-- **Elemente (6–7 Marken):** SNOCKS + Wettbewerber aus Research A (z. B. D2C-Basics-Marken, klassische Sockenmarken, Handelsmarke) + „Ideale Basics-Marke“ als Referenzelement.
+- **Elemente (7 Marken + Ideal):** SNOCKS, FALKE, Happy Socks, erlich textil, Calvin Klein Underwear, Uniqlo, Lidl-Eigenmarke + „meine ideale Basics-Marke“ als Referenzelement (Auswahl aus Research A: deckt Premium, Design, Nachhaltigkeit, Mode-Logo, Funktion und Discount ab).
 - **Ablauf je Interview (~15 Min.):** 4–5 Triaden („Worin ähneln sich zwei dieser Marken und unterscheiden sich von der dritten?“) → Konstruktpaare notieren → alle Marken auf jedem Konstrukt 1–5 bewerten.
 - **Stichprobe:** jedes Gruppenmitglied 2–3 Personen aus der Zielgruppe → n ≈ 8–12 (explorativ, so kennzeichnen).
 - **Claude liefert:** Interviewleitfaden, Erfassungstabelle (Excel/CSV), Auswertungsskript (Konstrukt-Häufigkeiten, Mittelwerte, Distanz SNOCKS ↔ Ideal, Heatmap).
@@ -109,7 +190,7 @@ Ergebnisse in [`research/`](research/). Liefert Unternehmensfakten, Wettbewerber
 
 ### Designsystem
 - **Look:** clean, viel Weißraum, große Typo, eine Kernaussage pro Folie – angelehnt an die Bildsprache von SNOCKS (Farben/Schrift aus der Kommunikationsanalyse übernommen, Logo nur zur Analyse mit Quellenhinweis).
-- **Farben:** Markenfarben aus Research C als Primär-/Akzentfarben; im Markensteuerrad links (rational) kühler Ton, rechts (emotional) warmer Ton.
+- **Farben:** Markenfarben von SNOCKS als Primär-/Akzentfarben, sobald sie verifiziert sind (Prüfliste #5; Brandfetch nennt ein warmes Gelb #FAC950 und Anthrazit #333333); im Markensteuerrad links (rational) kühler Ton, rechts (emotional) warmer Ton.
 - **Typografie:** eine Headline-Schrift + eine Textschrift (lokal eingebunden, damit es offline funktioniert).
 - **Icons:** einheitliches Icon-Set (z. B. Lucide, Open Source, SVG).
 - **Diagramme:** einheitlich gestaltet (gleiche Achsen, gleiche Farblogik, Quellenangabe unter jedem Chart).
