@@ -35,6 +35,7 @@
 | 3 → | 19.10.2026 | 11:55 | 🧩 B → 🤖 | Antwort B (76 Tool-Aufrufe) | siehe Abschnitt „→ Antwort“ unten |
 | 5 | 19.10.2026 | 11:35–11:56 | 🤖 | Eigene Recherche, Hook-Setup, Synthese in den Präsentationsplan | [PLAN-Praesentation.md](../../fallstudie-1-snocks/PLAN-Praesentation.md) |
 | 7 | 19.10.2026 | 20:55 | 👤 → 🤖 | „mach weiter“ → Interviewleitfaden, Erfassungstabelle, Auswertungsskript, Präsentations-Grundgerüst | siehe #7 |
+| 8 | 20.10.2026 | 14:01 | 👤 → 🤖 | „was ist der nächste schritt für mich“ | Fahrplan für die Gruppe, siehe #8 |
 
 ---
 
@@ -309,6 +310,16 @@ Dieser Schritt wird ohne Unteragenten erledigt (alles in einer Hand, damit Desig
 - [`praesentation/`](../../fallstudie-1-snocks/praesentation/): 15 Folien + 6 Backup, reveal.js + GSAP, offline lauffähig; [PDF-Export](../../fallstudie-1-snocks/export/SNOCKS-Fallstudie1.pdf).
 - **Qualitätssicherung:** Screenshots aller Folien automatisch erzeugt und geprüft, Überläufe korrigiert; Live-Test aller Animationen vorwärts und rückwärts ohne Browser-Fehler; Diagrammfarben mit einem Validator für Farbsehschwäche geprüft.
 - **Korrektur:** Auf den Markenkarten hatte der Haupt-Agent zunächst Preise für FALKE und erlich textil geschätzt. Diese standen nicht in der Desk Research und wurden deshalb durch einen Prüfhinweis ersetzt („vor dem ersten Interview nachsehen“).
+
+---
+
+## #8 · 👤 → 🤖 · 20.10.2026, 14:01 Uhr · Nächste Schritte
+
+**Prompt (wörtlich):**
+
+> was ist der nächste schritt für mich
+
+**Antwort (Kurzfassung):** Priorisierter Fahrplan für die Gruppe bis Mi 21.10. Zuerst Rollen verteilen, dann die zwei fehlenden Preise auf den Markenkarten ergänzen, Interviews führen und in die Excel-Tabelle eintragen, die Tabelle hochladen. Parallel: Screenshots, Persona-Porträt per Bild-KI (Prompt-Vorschlag mitgeliefert), Prüfliste. Es wurde keine neue Recherche und kein Unteragent gebraucht.
 
 ---
 
