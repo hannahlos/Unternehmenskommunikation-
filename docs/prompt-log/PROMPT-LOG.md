@@ -36,6 +36,7 @@
 | 5 | 19.10.2026 | 11:35–11:56 | 🤖 | Eigene Recherche, Hook-Setup, Synthese in den Präsentationsplan | [PLAN-Praesentation.md](../../fallstudie-1-snocks/PLAN-Praesentation.md) |
 | 7 | 19.10.2026 | 20:55 | 👤 → 🤖 | „mach weiter“ → Interviewleitfaden, Erfassungstabelle, Auswertungsskript, Präsentations-Grundgerüst | siehe #7 |
 | 8 | 20.10.2026 | 14:01 | 👤 → 🤖 | „was ist der nächste schritt für mich“ | Fahrplan für die Gruppe, siehe #8 |
+| 9 | 20.10.2026 | 16:02 | 👤 → 🤖 | „Was für Interviews mit welchen Fragen brauchst du“ | Fragenkatalog im Chat, siehe #9 |
 
 ---
 
@@ -320,6 +321,16 @@ Dieser Schritt wird ohne Unteragenten erledigt (alles in einer Hand, damit Desig
 > was ist der nächste schritt für mich
 
 **Antwort (Kurzfassung):** Priorisierter Fahrplan für die Gruppe bis Mi 21.10. Zuerst Rollen verteilen, dann die zwei fehlenden Preise auf den Markenkarten ergänzen, Interviews führen und in die Excel-Tabelle eintragen, die Tabelle hochladen. Parallel: Screenshots, Persona-Porträt per Bild-KI (Prompt-Vorschlag mitgeliefert), Prüfliste. Es wurde keine neue Recherche und kein Unteragent gebraucht.
+
+---
+
+## #9 · 👤 → 🤖 · 20.10.2026, 16:02 Uhr · Welche Interviews und Fragen?
+
+**Prompt (wörtlich):**
+
+> Was für Interviews mit welchen Fragen brauchst du
+
+**Antwort (Kurzfassung):** Kompakter Fragenkatalog direkt im Chat, inhaltlich identisch mit [`interviews/Interviewleitfaden.md`](../../fallstudie-1-snocks/interviews/Interviewleitfaden.md): Zielpersonen und Umfang, Kurzsteckbrief, 5 Triaden für das Repertory Grid mit Bewertung von 1 bis 5, 3 Laddering-Leitern und 4 Analogien.
 
 ---
 
