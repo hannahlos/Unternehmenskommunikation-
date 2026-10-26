@@ -39,6 +39,7 @@
 | 9 | 20.10.2026 | 16:02 | 👤 → 🤖 | „Was für Interviews mit welchen Fragen brauchst du“ | Fragenkatalog im Chat, siehe #9 |
 | 10 | 26.10.2026 | 10:13 | 👤 → 🤖 | „Überarbeite die Präsentation bitte“ (+ Vorlesungsskript, Auftrag Fallstudie 1) | Folien-Präsentation (Claude-Artifact) überarbeitet, siehe #10 |
 | 11 | 26.10.2026 | 10:44 | 👤 → 🤖 | „Gestalte es graphisch ansprechender und baue eine bessere Visualisierung“ | Visuelles Redesign mit Diagrammen, siehe #11 |
+| 12 | 26.10.2026 | 11:06 | 👤 → 🤖 | „Wieso ist da eine Folie warum Lisa?“ | Begründung im Chat, siehe #12 |
 
 ---
 
@@ -402,6 +403,16 @@ Dieser Schritt wird ohne Unteragenten erledigt (alles in einer Hand, damit Desig
 | Neu | drei Kapiteltrenner; kleines Rad oben rechts zeigt den jeweiligen Baustein |
 
 **Ergebnis:** 24 Folien (21 im Vortrag inkl. drei Kapiteltrennern, 3 Backup).
+
+---
+
+## #12 · 👤 → 🤖 · 26.10.2026, 11:06 Uhr · Warum gibt es die Folie „Warum Lisa?“
+
+**Prompt (wörtlich):**
+
+> Wieso ist da eine Folie warum Lisa?
+
+**Antwort (Kurzfassung):** Die Folie begründet die Wahl einer weiblichen Persona, obwohl die Daten eher männliche Website-Besucher zeigen (Similarweb 53–57 % männlich): Das Damensortiment ist der Wachstumstreiber, und alle Zukäufe zielen auf Frauen. Sie setzt den Schritt „Segmentieren → Bewerten → Auswählen“ aus Vorlesungsfolie 82 um und zahlt auf die Bewertungskriterien „Problemverständnis & Fokussierung“ sowie „Analyse & Argumentation“ ein. Angeboten: die Folie ins Backup verschieben oder als einen Satz auf der Persona-Folie zusammenfassen. Keine Änderung an der Präsentation.
 
 ---
 
