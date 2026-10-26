@@ -38,6 +38,7 @@
 | 8 | 20.10.2026 | 14:01 | 👤 → 🤖 | „was ist der nächste schritt für mich“ | Fahrplan für die Gruppe, siehe #8 |
 | 9 | 20.10.2026 | 16:02 | 👤 → 🤖 | „Was für Interviews mit welchen Fragen brauchst du“ | Fragenkatalog im Chat, siehe #9 |
 | 10 | 26.10.2026 | 10:13 | 👤 → 🤖 | „Überarbeite die Präsentation bitte“ (+ Vorlesungsskript, Auftrag Fallstudie 1) | Folien-Präsentation (Claude-Artifact) überarbeitet, siehe #10 |
+| 11 | 26.10.2026 | 10:44 | 👤 → 🤖 | „Gestalte es graphisch ansprechender und baue eine bessere Visualisierung“ | Visuelles Redesign mit Diagrammen, siehe #11 |
 
 ---
 
@@ -367,11 +368,40 @@ Dieser Schritt wird ohne Unteragenten erledigt (alles in einer Hand, damit Desig
 
 | Uhrzeit | Suche | Ergebnis |
 |---|---|---|
-| ca. 10:30 | `SNOCKS 2024 Umsatz Influencer 11 Millionen CRM 9,5 Millionen` | Gesamtumsatz 2024 (83 Mio. €) bestätigt; 11 Mio. € (Influencer) und 9,5 Mio. € (CRM) **nicht** gefunden → nur noch in den Sprechernotizen, als ungeprüft markiert |
-| ca. 10:30 | `SNOCKS Anti-Loch-Garantie Monate Socken Boxershorts 2026` | Deal-Seiten nennen 6 Monate, keine offizielle Seite → Folien nennen keine Dauer |
-| ca. 10:30 | `SNOCKS 5,7 Millionen Kunden belieferte Kundinnen` | 5,7 Mio. belieferte Kund:innen (kumuliert) auf der SNOCKS-Grounding-Page bestätigt |
+| 10:18 | `SNOCKS 2024 Umsatz Influencer 11 Millionen CRM 9,5 Millionen` | Gesamtumsatz 2024 (83 Mio. €) bestätigt; 11 Mio. € (Influencer) und 9,5 Mio. € (CRM) **nicht** gefunden → nur noch in den Sprechernotizen, als ungeprüft markiert |
+| 10:18 | `SNOCKS Anti-Loch-Garantie Monate Socken Boxershorts 2026` | Deal-Seiten nennen 6 Monate, keine offizielle Seite → Folien nennen keine Dauer |
+| 10:18 | `SNOCKS 5,7 Millionen Kunden belieferte Kundinnen` | 5,7 Mio. belieferte Kund:innen (kumuliert) auf der SNOCKS-Grounding-Page bestätigt |
 
 **Ergebnis:** 20 Folien (17 im Vortrag, 3 Backup), neu: Zielgruppe, Repertory-Grid-Methode, Markennutzen, Methodik/Datenbasis, Quellen; entfernt: die fünf Einzelfolien zum Steuerrad. Offene Punkte für die Gruppe: Namen auf der Titelfolie, Wortlaut der Persona- und Grid-Prompts auf Folie B2 prüfen (stammen aus der alten Fassung), optional ein KI-Porträt für Lisa.
+
+---
+
+## #11 · 👤 → 🤖 · 26.10.2026, 10:44 Uhr · Visuelles Redesign
+
+**Prompt (wörtlich):**
+
+> Gestalte Es graphisch ansprechender und baue eine bessere visulisierung
+
+**Vorgehen des Haupt-Agenten (Begründung):** Textkarten wurden durch Visualisierungen ersetzt, die jeweils eine Aussage der Analyse tragen. Die Diagrammfarben wurden mit dem Farbsehschwäche-Validator des Dataviz-Skills geprüft (Paar Pink #B8326A / Blau #4F7DB8: alle Prüfungen bestanden; Heatmap-Skala in fünf Pinkstufen: bestanden). Keine neuen Fakten, keine Websuche; die Zahlen stammen aus #10 und den Recherche-Berichten.
+
+| Folie | Neue Visualisierung |
+|---|---|
+| Titel | Markensteuerrad als Schlüsselgrafik auf dunkler Bildhälfte |
+| Vorgehen | Methoden um ein Rad angeordnet, so wie die Felder im Steuerrad liegen |
+| Marke | Säulendiagramm Umsatz 2017–2025 und Meilenstein-Leiste |
+| Zielgruppe | Balken: Geschlechterverteilung (Similarweb Juni/Juli 2026) und Umsatzmix nach Kategorie |
+| Persona | Illustration (eigene Darstellung), Steckbrief nach Geografie und Soziodemografie |
+| Kaufverhalten | Customer Journey in fünf Phasen und Kriterien-Kacheln |
+| Mediennutzung (neu) | Balkendiagramm Nutzungstage (Annahme) und Kennzahlen der ARD/ZDF-Studie |
+| Limbic Map | eingefärbte Felder |
+| Repertory Grid | Heatmap mit Idealmarke und divergierenden Δ-Balken |
+| Laddering | Hierarchical Value Map (Attribute → Konsequenzen → Werte) |
+| Analogien | Illustrationen Markenfigur und Stadtfuchs, Merkmal → Eigenschaft |
+| Kommunikation | Kanal-Matrix mit Follower-Balken und Relevanz für Lisa |
+| Corporate Design | Moodboard mit Logo, Claim, Farbfeldern und Piktogrammen der Schlüsselbilder |
+| Neu | drei Kapiteltrenner; kleines Rad oben rechts zeigt den jeweiligen Baustein |
+
+**Ergebnis:** 24 Folien (21 im Vortrag inkl. drei Kapiteltrennern, 3 Backup).
 
 ---
 
