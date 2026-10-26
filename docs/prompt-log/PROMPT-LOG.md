@@ -37,6 +37,7 @@
 | 7 | 19.10.2026 | 20:55 | 👤 → 🤖 | „mach weiter“ → Interviewleitfaden, Erfassungstabelle, Auswertungsskript, Präsentations-Grundgerüst | siehe #7 |
 | 8 | 20.10.2026 | 14:01 | 👤 → 🤖 | „was ist der nächste schritt für mich“ | Fahrplan für die Gruppe, siehe #8 |
 | 9 | 20.10.2026 | 16:02 | 👤 → 🤖 | „Was für Interviews mit welchen Fragen brauchst du“ | Fragenkatalog im Chat, siehe #9 |
+| 10 | 26.10.2026 | 10:13 | 👤 → 🤖 | „Überarbeite die Präsentation bitte“ (+ Vorlesungsskript, Auftrag Fallstudie 1) | Folien-Präsentation (Claude-Artifact) überarbeitet, siehe #10 |
 
 ---
 
@@ -331,6 +332,46 @@ Dieser Schritt wird ohne Unteragenten erledigt (alles in einer Hand, damit Desig
 > Was für Interviews mit welchen Fragen brauchst du
 
 **Antwort (Kurzfassung):** Kompakter Fragenkatalog direkt im Chat, inhaltlich identisch mit [`interviews/Interviewleitfaden.md`](../../fallstudie-1-snocks/interviews/Interviewleitfaden.md): Zielpersonen und Umfang, Kurzsteckbrief, 5 Triaden für das Repertory Grid mit Bewertung von 1 bis 5, 3 Laddering-Leitern und 4 Analogien.
+
+---
+
+## #10 · 👤 → 🤖 · 26.10.2026, 10:13 Uhr · Präsentation nach Vorlesung überarbeiten
+
+**Kontext / Anhänge:** PDF der aktuellen Präsentation (Claude-Folien-Artifact „SNOCKS – Brand Persona & Markenidentität“, Persona Lisa Schneider, 20 Folien) und das Vorlesungsskript (130 Folien).
+
+**Prompt (wörtlich):**
+
+> Überarbeite die Präsentation bitte . Das war die Vorlesung dazu und der Auftrag lautet : FALLSTUDIE 1: Brand Persona & Markenidentität
+> Erarbeiten Sie eine Brand Persona und Markenidentität für Ihre Unternehmensmarke anhand des Markensteuerrads nach Esch. Nutzen Sie hierfür insbesondere Desk Research und KI-Tools als Methoden. Dokumentieren Sie Ihre Prompts und begründen Sie Ihr Vorgehen (Backup).
+> [… es folgen die sechs Teilaufgaben aus Folie 60, wörtlich im [Auto-Log](auto/2026-10-26.md)]
+
+**Vorgehen des Haupt-Agenten (Begründung):**
+1. Vorlesungsfolien 62–100 und 122–127 (Zielgruppe, Persona, Limbic Map, KI und Persona, Markensteuerrad mit Beispielen Häagen-Dazs, Hilti, IST-Identität, integrierte Kommunikation, Mediennutzung) gelesen und die Präsentation Folie für Folie dagegen geprüft.
+2. Faktenbasis aus den Recherche-Berichten A, B, C abgeglichen; drei Zahlen per Websuche nachgeprüft (siehe unten).
+3. Präsentation direkt im bestehenden Artifact überarbeitet (gleicher Link). Kein Unteragent, damit Inhalt und Layout aus einer Hand kommen.
+
+**Wichtigste Korrekturen (Befund → Änderung):**
+
+| Befund in der alten Fassung | Änderung |
+|---|---|
+| Markensteuerrad falsch angeordnet (Attribute oben, Nutzen unten) und als selbstlaufende Animation plus fünf fast identische Einzelfolien | Ein vollständiges Rad in der Anordnung der Vorlesung: Nutzen oben links, Attribute unten links („stützt“), Tonalität oben rechts, Markenbild unten rechts („erlebbar durch“, „sichtbar durch“); baut sich im Präsentationsmodus Feld für Feld auf |
+| Zielgruppenwahl nicht begründet | Neue Folie „Warum Lisa?“ nach Segmentieren → Bewerten → Auswählen (Vorlesung Folie 82) |
+| Mediennutzung in Minuten pro Tag und Psychografie in Prozentwerten ohne Quelle | Nutzungsintensität als gekennzeichnete Annahme mit ARD/ZDF-Anker; Persönlichkeitsprofil mit Gegensatzpaaren wie im Persona-Beispiel der Vorlesung; AIO und Sinus-Milieu ergänzt |
+| Repertory Grid ohne sichtbare Triaden; „relevant“ nicht hergeleitet (Design markiert, obwohl kein Unterschied) | Methodenfolie mit Triaden und bipolaren Konstrukten; Ergebnis mit Idealmarke und Δ zum Wettbewerb; Design als Basisfaktor, Nachhaltigkeit als Lücke |
+| Laddering ohne abgeleitete Markennutzen | Spalten nach Means-End-Chain; neue Folie mit Beispiel-Leiter und Markennutzen (funktional, psychosozial-individuell, sozial) |
+| Analogie-Folie: Fuchs-Grafik überdeckt den Titel; Mensch-Analogie glich der Persona | Layout korrigiert; Mensch als eigene Markenfigur, Tonalität in Persönlichkeit, Erlebnis, Beziehung (Vorlesung Folie 88) |
+| Claim „kein fester Slogan“; Kanäle ohne Kennzahlen | Claim „feel the fit.“ (Seitentitel, TikTok-Handle) sowie „WHY NOT!“ und OOH-Slogan; Follower und Rollen je Kanal; Bewertung nach formaler und inhaltlicher Integration |
+| Prompt-Folie mit Platzhalter | Echte Prompts aus diesem Log; neue Backup-Folien zu Datenbasis und Quellen |
+
+**Websuchen (Prüfung einzelner Zahlen):**
+
+| Uhrzeit | Suche | Ergebnis |
+|---|---|---|
+| ca. 10:30 | `SNOCKS 2024 Umsatz Influencer 11 Millionen CRM 9,5 Millionen` | Gesamtumsatz 2024 (83 Mio. €) bestätigt; 11 Mio. € (Influencer) und 9,5 Mio. € (CRM) **nicht** gefunden → nur noch in den Sprechernotizen, als ungeprüft markiert |
+| ca. 10:30 | `SNOCKS Anti-Loch-Garantie Monate Socken Boxershorts 2026` | Deal-Seiten nennen 6 Monate, keine offizielle Seite → Folien nennen keine Dauer |
+| ca. 10:30 | `SNOCKS 5,7 Millionen Kunden belieferte Kundinnen` | 5,7 Mio. belieferte Kund:innen (kumuliert) auf der SNOCKS-Grounding-Page bestätigt |
+
+**Ergebnis:** 20 Folien (17 im Vortrag, 3 Backup), neu: Zielgruppe, Repertory-Grid-Methode, Markennutzen, Methodik/Datenbasis, Quellen; entfernt: die fünf Einzelfolien zum Steuerrad. Offene Punkte für die Gruppe: Namen auf der Titelfolie, Wortlaut der Persona- und Grid-Prompts auf Folie B2 prüfen (stammen aus der alten Fassung), optional ein KI-Porträt für Lisa.
 
 ---
 
